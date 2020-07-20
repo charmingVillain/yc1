@@ -1,0 +1,1 @@
+@includeFirst(['admin.layouts.AdminLTE.app'])
