@@ -21,7 +21,7 @@
     },
     "dependencies": {
         "ali-oss": "^6.5.1",
-        "axios": "^0.19",
+        "axios": "^0.21",
         "crypto-js": "^4.0.0",
         "element-ui": "^2.13.0",
         "hasha": "^5.2.0",
